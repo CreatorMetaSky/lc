@@ -24,7 +24,7 @@
 - [x] 直播参数配置优化
 - [x] learn zig with ziglings 11 - 16
 
-## 2022.01.10
+## 2023.01.10
 
 - [x] learn zig with ziglings 17 - 34
 
@@ -32,3 +32,15 @@
 
 - 031 - switch 中 std.debug.print("{c}", 26) - 打印结果不对?
 - 033 - catch 语句返回值赋值给一个变量，类似 rust 能否做到?
+
+## 2023.01.17
+
+- [ ] learn zig with ziglings 34-58
+    - enum
+    - struct
+    - pointer
+    - optional
+    - methods
+    - value assign
+    - slice string manypointers
+    - union
