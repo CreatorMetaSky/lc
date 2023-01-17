@@ -35,6 +35,10 @@
 
 ## 2023.01.17
 
+- [ ] 用 zig 写一个 tun 虚拟网卡基本实现 - 网络流量劫持
+
+## 2023.01.19
+
 - [ ] learn zig with ziglings 34-58
     - enum
     - struct
