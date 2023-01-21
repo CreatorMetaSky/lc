@@ -35,16 +35,8 @@
 
 ## 2023.01.17
 
-- [ ] 用 zig 写一个 tun 虚拟网卡基本实现 - 网络流量劫持
+- [x] 网络编程 - zig-tun - 工程搭建
 
-## 2023.01.19
+## 2023.01.24
 
-- [ ] learn zig with ziglings 34-58
-    - enum
-    - struct
-    - pointer
-    - optional
-    - methods
-    - value assign
-    - slice string manypointers
-    - union
+- [ ] 网络编程 - zig-tun - 配置优化
