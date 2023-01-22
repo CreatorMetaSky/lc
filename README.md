@@ -1,6 +1,6 @@
-# 直播在线写代码
+# 直播写代码
 
-这个仓库记录了直播写代码相关的事情
+记录直播写代码相关的主题
 
 - [Bilibili](https://space.bilibili.com/1076758871/?spm_id_from=333.999.0.0)
 - [Youtube](https://www.youtube.com/@user-lv3my7jv6h)
@@ -35,7 +35,7 @@
 
 ## 2023.01.17
 
-- [x] 网络编程 - zig-tun - 工程搭建
+- [x] [网络编程 - zig-tun - 工程搭建](https://www.bilibili.com/video/BV1TG4y197Jf/?spm_id_from=333.999.0.0)
 
 ## 2023.01.24
 
